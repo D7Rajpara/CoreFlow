@@ -1,3 +1,3 @@
 # CoreFlow
 
-Here is a common code structure for a basic Flutter project using Provider
+Here is a common structure for managing local storage in Flutter with the Provider pattern
